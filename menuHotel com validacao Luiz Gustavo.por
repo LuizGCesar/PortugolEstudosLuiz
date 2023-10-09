@@ -18,7 +18,7 @@ programa
           escreva("Por favor digite seu nome: \n")
           leia(nome)
           limpa()
-          escreva("Olá ", nome, ",bem-vindo ao nosso sistema\n")
+          escreva("Olá ", nome, ",bem-vindo(a) ao nosso sistema\n")
           faca {
                escreva("-- Menu de opções do Hotel --\n")
                escreva("Selecione a opção desejada digitando a letra do menu\n")
@@ -174,7 +174,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 881; 
+ * @POSICAO-CURSOR = 549; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
